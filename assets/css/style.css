@@ -1,0 +1,103 @@
+body {
+    background-color: #f1f1f1;
+}
+
+a {
+	color: #777777;
+	text-decoration: none;
+}
+
+a.navbar-brand:hover {
+	background-color: none;
+	color: #777777 !important;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #777777;
+}
+
+li {
+	color: #7777;
+}
+
+label {
+	color: #777777;
+}
+
+button.btn.btn-primary {
+	margin-bottom: 10px;
+	background-color: #4aaaa5;
+	border: none;
+	width: 80px;
+}
+
+h2 {
+	font-family: 'Georgia';
+	color: #4aaaa5;
+	font-size: 25px;
+	font-weight: bold;
+	padding-top: 20px;
+}
+
+.navbar {
+	margin-bottom: 10px;
+	border-bottom: solid #cccccc 1px;
+}
+
+.navbar-brand {
+	background-color: #4aaaa5;
+	color: white;
+	font-weight: bold;
+	font-size: 25px;
+	text-align: center;
+	padding: 15px;
+	font-family: 'Georgia';
+}
+
+.navbar {
+	background-color: #ffffff;
+	padding: 0px;
+}
+
+
+.link {
+  color: #777777;	
+}
+
+.navbar-header {
+	background-color: #ffffff;
+	color: #4aaaa5;
+}
+
+div.container {
+	padding: 0px;
+}
+
+.container {
+	background-color: #ffffff;
+}
+
+div.text-center.position-relative-3 {
+	background-color: #4aaaa5;
+	color: white;
+	font-family: 'Georgia';
+	position: relative;
+	bottom: 30%;
+}
+
+footer.footer {
+	background-color: #666666;
+	border-top: solid 3px;
+	border-top-color: #4aaaa5;
+
+}
+
+p.footer-block {
+	background-color: #666666;
+	color: #f1f1f1 !important;
+}
+
+
+
+
