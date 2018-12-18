@@ -43,6 +43,7 @@ h2 {
 .navbar {
 	margin-bottom: 10px;
 	border-bottom: solid #cccccc 1px;
+	border: 0;
 }
 
 .navbar-brand {
@@ -54,6 +55,8 @@ h2 {
 	padding: 15px;
 	font-family: 'Georgia';
 }
+
+
 
 .navbar {
 	background-color: #ffffff;
